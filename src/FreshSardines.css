@@ -1,0 +1,18 @@
+.FreshSardines {
+	background-image: url("https://i.gifer.com/9Ieq.gif");
+	background-size: cover;
+	height: 94vh;
+	background-repeat: no-repeat;
+}
+
+.FreshSardines a {
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: darkslategray;
+	padding: 15px;
+	border-radius: 1rem;
+}

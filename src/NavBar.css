@@ -1,0 +1,17 @@
+.NavBar {
+	justify-items: stretch;
+	background-color: darkslategray;
+}
+
+.NavBar a {
+	display: inline-block;
+	width: 25vw;
+	color: white;
+	text-decoration: none;
+	padding: 15px 0;
+}
+
+.NavBar a.active {
+	background-color: rgb(38, 65, 65);
+	font-weight: bold;
+}
