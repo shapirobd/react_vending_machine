@@ -1,0 +1,18 @@
+.Chips {
+	background-image: url("https://media1.tenor.com/images/6ac62540ec447732dd45c8eb8a447327/tenor.gif?itemid=16436117");
+	background-size: cover;
+	height: 94vh;
+	background-repeat: no-repeat;
+}
+
+.Chips a {
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: darkslategray;
+	padding: 15px;
+	border-radius: 1rem;
+}

@@ -1,0 +1,25 @@
+.VendingMachine {
+	height: 94vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("https://securecdn.pymnts.com/wp-content/uploads/2020/03/amazon-thesockspot-benwilliams-nutrimeals-.jpg");
+}
+
+.VendingMachine-menu {
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 25vw;
+	border-radius: 1rem;
+	padding: 15px 0;
+	margin-left: 71%;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.VendingMachine-menu a {
+	display: block;
+	padding: 15px 0;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
